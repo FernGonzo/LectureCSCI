@@ -2,7 +2,7 @@
 
 Things to know/commits key
 
-cd <file Name>/
+cd <file Name> /
 ls -a
 git status
 clear
@@ -22,3 +22,7 @@ git pull <Repository URL>
 To Run Code
 g++ <file name> -o <file output name>
 ./<file output name>
+    
+g++ <file name>
+./a.out 
+    
